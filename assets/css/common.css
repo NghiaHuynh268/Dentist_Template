@@ -1,0 +1,56 @@
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hover {
+  cursor: pointer;
+}
+.tt1 {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.08em;
+  color: #583fbc;
+}
+.tt2 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing: -0.04em;
+  color: #181945;
+}
+.text {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.02em;
+  color: #181945;
+  opacity: 0.6;
+}
+.name {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.02em;
+  color: #181945;
+}
+.describe {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.02em;
+  color: #181945;
+  opacity: 0.5;
+}
+.book_an_appointment {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  padding: 20px 39px;
+  box-sizing: border-box;
+  background-color: #583fbc;
+  border-radius: 16px;
+}
